@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #746bd1, #7377d7, #7483dc, #778fe1, #7c9ae4, #74a7ed, #6db3f3, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    border:solid;
+    border-color:black;
+    border-width: 5px;
+    background-size: cover;
+    background-repeat: none;
+}
+#logo{
+    height:30%;
+    width:25%;
+    border:solid;
+    border-color:black;
+    margin-top: 10px;
+}
+#run{
+    background-color: black;
+    opacity: 0.8;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 10px;
+    color:white;
+
+}
+
+#searcharea{
+    margin-top: 10px;
+}
+input{
+    border: solid;
+    border-color:black;
+    height:30px;
+    width:250px;
+    font-size:20px;
+    font-weight: bolder;
+    background-color:white;
+    margin-bottom: 20px;
+    margin-right: 200px;
+}
+button{
+    height:30px;
+    border:solid;
+    border-color: black;
+}
